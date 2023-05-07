@@ -1,0 +1,38 @@
+C:\DotNetCore\API STORE\bin\Debug\net6.0\appsettings.Development.json
+C:\DotNetCore\API STORE\bin\Debug\net6.0\appsettings.json
+C:\DotNetCore\API STORE\bin\Debug\net6.0\API STORE.exe
+C:\DotNetCore\API STORE\bin\Debug\net6.0\API STORE.deps.json
+C:\DotNetCore\API STORE\bin\Debug\net6.0\API STORE.runtimeconfig.json
+C:\DotNetCore\API STORE\bin\Debug\net6.0\API STORE.dll
+C:\DotNetCore\API STORE\bin\Debug\net6.0\API STORE.pdb
+C:\DotNetCore\API STORE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\DotNetCore\API STORE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DotNetCore\API STORE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DotNetCore\API STORE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DotNetCore\API STORE\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\DotNetCore\API STORE\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\DotNetCore\API STORE\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\DotNetCore\API STORE\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\DotNetCore\API STORE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\DotNetCore\API STORE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\DotNetCore\API STORE\obj\Debug\net6.0\API STORE.csproj.AssemblyReference.cache
+C:\DotNetCore\API STORE\obj\Debug\net6.0\API STORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetCore\API STORE\obj\Debug\net6.0\API STORE.AssemblyInfoInputs.cache
+C:\DotNetCore\API STORE\obj\Debug\net6.0\API STORE.AssemblyInfo.cs
+C:\DotNetCore\API STORE\obj\Debug\net6.0\API STORE.csproj.CoreCompileInputs.cache
+C:\DotNetCore\API STORE\obj\Debug\net6.0\API STORE.MvcApplicationPartsAssemblyInfo.cs
+C:\DotNetCore\API STORE\obj\Debug\net6.0\API STORE.MvcApplicationPartsAssemblyInfo.cache
+C:\DotNetCore\API STORE\obj\Debug\net6.0\staticwebassets\msbuild.API STORE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DotNetCore\API STORE\obj\Debug\net6.0\staticwebassets\msbuild.build.API STORE.props
+C:\DotNetCore\API STORE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API STORE.props
+C:\DotNetCore\API STORE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API STORE.props
+C:\DotNetCore\API STORE\obj\Debug\net6.0\staticwebassets.pack.json
+C:\DotNetCore\API STORE\obj\Debug\net6.0\staticwebassets.build.json
+C:\DotNetCore\API STORE\obj\Debug\net6.0\staticwebassets.development.json
+C:\DotNetCore\API STORE\obj\Debug\net6.0\scopedcss\bundle\API STORE.styles.css
+C:\DotNetCore\API STORE\obj\Debug\net6.0\API STORE.csproj.CopyComplete
+C:\DotNetCore\API STORE\obj\Debug\net6.0\API STORE.dll
+C:\DotNetCore\API STORE\obj\Debug\net6.0\refint\API STORE.dll
+C:\DotNetCore\API STORE\obj\Debug\net6.0\API STORE.pdb
+C:\DotNetCore\API STORE\obj\Debug\net6.0\API STORE.genruntimeconfig.cache
+C:\DotNetCore\API STORE\obj\Debug\net6.0\ref\API STORE.dll
